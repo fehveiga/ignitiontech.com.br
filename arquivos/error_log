@@ -1,0 +1,5 @@
+[01-Apr-2023 01:55:03 UTC] PHP Warning:  copy(vfm-admin/_content/users/users-master.php): Failed to open stream: No such file or directory in /home2/ignition/public_html/arquivos/vfm-admin/include/head.php on line 33
+[01-Apr-2023 01:55:03 UTC] PHP Stack trace:
+[01-Apr-2023 01:55:03 UTC] PHP   1. {main}() /home2/ignition/public_html/arquivos/index.php:0
+[01-Apr-2023 01:55:03 UTC] PHP   2. require_once() /home2/ignition/public_html/arquivos/index.php:14
+[01-Apr-2023 01:55:03 UTC] PHP   3. copy($from = 'vfm-admin/_content/users/users-master.php', $to = 'vfm-admin/_content/users/users.php') /home2/ignition/public_html/arquivos/vfm-admin/include/head.php:33
